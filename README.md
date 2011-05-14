@@ -1,6 +1,6 @@
 # Lolcathost
 
-## Take whatever is on localhost and make it a more cheezburger friendly.
+## Take whatever is on localhost and make it more cheezburger friendly.
 
 ## License
 The MIT License
